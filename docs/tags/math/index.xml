@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math on moririn.page</title>
-    <link>www.moririn.page/tags/math/</link>
+    <link>https://m-masaki72.github.io/moririn.page/./tags/math/</link>
     <description>Recent content in math on moririn.page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="www.moririn.page/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://m-masaki72.github.io/moririn.page/./tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Katex Math Typesetting</title>
-      <link>www.moririn.page/katex-math-typesetting/</link>
+      <link>https://m-masaki72.github.io/moririn.page/./katex-math-typesetting/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>www.moririn.page/katex-math-typesetting/</guid>
+      <guid>https://m-masaki72.github.io/moririn.page/./katex-math-typesetting/</guid>
       <description>Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
 Note: Use the online reference of supported TeX functions.
 Some math:
